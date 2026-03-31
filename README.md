@@ -27,7 +27,6 @@ These materials inform the core claims on disease-risk modeling, genetics-suppor
 docs/
 	index.html
 	evidence.html
-	team.html
 	contact.html
 	assets/
 		style.css
