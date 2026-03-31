@@ -65,6 +65,11 @@ nav a:focus-visible {
   text-underline-offset: 0.18rem;
 }
 
+nav a[aria-current="page"] {
+  pointer-events: none;
+  cursor: default;
+}
+
 h1,
 h2,
 h3 {
